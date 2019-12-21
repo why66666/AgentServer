@@ -1,0 +1,49 @@
+2019-12-10 19:30:20,997 DEBUG (ProviderController.java:31)- 创建Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4
+2019-12-10 19:30:21,822 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:30:21,830 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:30:21,956 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:30:21,971 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:30:26,014 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:30:56,038 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:31:01,485 DEBUG (ProviderController.java:75)- 文件删除
+2019-12-10 19:31:01,486 DEBUG (ProviderController.java:76)- key========Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4
+2019-12-10 19:31:01,486 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-10 19:31:01,486 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), weaver.formmode.excel.ModeCacheManager.getInstance(ModeCacheManager.java:58), weaver.formmode.task.TaskService.run(TaskService.java:239), java.lang.Thread.run(Thread.java:748)]
+2019-12-10 19:31:01,504 DEBUG (ProviderServiceImpl.java:55)- list==>[[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), weaver.formmode.excel.ModeCacheManager.getInstance(ModeCacheManager.java:58), weaver.formmode.task.TaskService.run(TaskService.java:239), java.lang.Thread.run(Thread.java:748)]]
+2019-12-10 19:31:26,084 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:31:56,203 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:32:26,212 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:32:56,234 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:33:26,273 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:33:56,297 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:34:26,319 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4=====================
+2019-12-10 19:35:09,576 DEBUG (SessionListener.java:24)- ====================================session创建========================================
+2019-12-10 19:35:09,577 DEBUG (SessionListener.java:25)- ====================================key: null 上线========================================
+2019-12-10 19:35:09,577 DEBUG (ProviderController.java:31)- 创建Token_595fcc910352498bad78cfbd4c56a26e
+2019-12-10 19:35:10,287 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:35:10,295 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:35:10,426 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:35:10,441 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-10 19:35:14,592 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:35:26,442 DEBUG (ProviderController.java:75)- 文件删除
+2019-12-10 19:35:26,443 DEBUG (ProviderController.java:76)- key========Token_595fcc910352498bad78cfbd4c56a26e
+2019-12-10 19:35:26,443 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-10 19:35:26,443 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), weaver.formmode.excel.ModeCacheManager.getInstance(ModeCacheManager.java:58), weaver.formmode.task.TaskService.run(TaskService.java:239), java.lang.Thread.run(Thread.java:748)]
+2019-12-10 19:35:26,464 DEBUG (ProviderServiceImpl.java:55)- list==>java.io.File.deleteOnExit(File.java)
+2019-12-10 19:35:36,026 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-10 19:35:36,026 DEBUG (SessionListener.java:32)- ====================================key: Token_dbf0b4e5dc0e40fcb9d0bb2add28cfc4 下线========================================
+2019-12-10 19:35:44,613 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:36:14,633 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:36:44,658 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:37:14,673 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:37:44,685 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:38:14,707 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:38:44,731 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:39:14,751 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:39:44,767 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:40:14,780 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:40:44,802 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:41:14,820 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:41:44,839 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:42:14,863 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================
+2019-12-10 19:42:44,881 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_595fcc910352498bad78cfbd4c56a26e=====================

@@ -1,0 +1,63 @@
+2019-12-13 18:32:37,187 DEBUG (ProviderController.java:76)- key========Token_97262180b2cd4b10a854b1d12eeebb11
+2019-12-13 18:32:37,189 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-13 18:32:37,189 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-13 18:32:37,205 DEBUG (ProviderServiceImpl.java:55)- list==>java.io.File.delete(File.java)
+2019-12-13 18:32:37,228 DEBUG (ProviderController.java:75)- 文件删除
+2019-12-13 18:32:37,228 DEBUG (ProviderController.java:76)- key========Token_97262180b2cd4b10a854b1d12eeebb11
+2019-12-13 18:32:37,229 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-13 18:32:37,229 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-13 18:32:37,246 DEBUG (ProviderServiceImpl.java:55)- list==>java.io.File.delete(File.java)
+2019-12-13 18:32:37,917 DEBUG (ProviderController.java:75)- 文件删除
+2019-12-13 18:32:37,917 DEBUG (ProviderController.java:76)- key========Token_97262180b2cd4b10a854b1d12eeebb11
+2019-12-13 18:32:37,917 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-13 18:32:37,917 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-13 18:32:37,934 DEBUG (ProviderServiceImpl.java:55)- list==>java.io.File.delete(File.java)
+2019-12-13 18:32:51,263 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:33:21,287 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:33:51,309 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:34:21,324 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:34:51,345 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:35:21,356 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:35:51,371 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:36:21,381 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:36:51,390 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:37:21,404 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:37:51,416 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:38:21,425 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:38:51,436 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:39:21,445 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:39:51,454 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:40:21,465 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:40:51,476 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:41:21,487 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:41:51,495 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:42:21,508 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:42:51,517 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:43:21,525 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:43:51,547 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:44:21,565 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:44:51,588 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:45:21,602 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:45:51,622 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:46:21,636 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:46:51,654 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:47:21,666 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:47:51,686 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:48:21,697 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:48:51,706 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:49:21,726 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:49:51,737 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:50:21,747 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:50:51,768 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:51:21,784 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:51:51,803 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:52:21,827 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:52:51,852 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:53:21,872 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:53:51,890 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:54:21,902 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:54:51,921 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:55:21,947 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:55:51,962 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:56:21,983 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================
+2019-12-13 18:56:51,993 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_97262180b2cd4b10a854b1d12eeebb11=====================

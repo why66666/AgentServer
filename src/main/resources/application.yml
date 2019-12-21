@@ -1,0 +1,24 @@
+server:
+  port: 9001
+  servlet:
+    session:
+      timeout: 60
+spring:
+  application:
+    name: agent-server
+  profiles:
+    active: dev #默认环境(开发环境)
+  redis:
+    host: 49.235.209.174
+    port: 6379
+    password: 519060759
+    timeout: 2000
+    lettuce:
+      pool:
+        max-active: 50
+        max-wait: 1
+        max-idle: 8
+        min-idle: 0
+
+logging:
+  config: classpath:loggback.xml

@@ -1,0 +1,29 @@
+2019-12-08 20:09:00,499 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.429 seconds (JVM running for 3.028)
+2019-12-08 20:11:32,001 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 12656 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:11:32,003 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-12-08 20:11:32,004 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2019-12-08 20:11:34,192 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.535 seconds (JVM running for 3.101)
+2019-12-08 20:12:50,676 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 18392 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:12:50,681 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-12-08 20:12:50,681 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2019-12-08 20:12:52,725 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.507 seconds (JVM running for 3.15)
+2019-12-08 20:13:49,199 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 6596 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:13:49,201 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-12-08 20:13:49,202 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2019-12-08 20:13:51,337 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.6 seconds (JVM running for 3.352)
+2019-12-08 20:14:49,469 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 17048 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:14:49,473 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2019-12-08 20:14:49,473 INFO (SpringApplication.java:652)- The following profiles are active: dev
+2019-12-08 20:14:51,399 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.472 seconds (JVM running for 3.131)
+2019-12-08 20:18:39,233 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 10288 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:18:39,236 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2019-12-08 20:18:39,237 INFO (SpringApplication.java:658)- The following profiles are active: dev
+2019-12-08 20:18:41,848 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 3.033 seconds (JVM running for 3.781)
+2019-12-08 20:24:07,667 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 18012 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:24:07,670 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2019-12-08 20:24:07,671 INFO (SpringApplication.java:658)- The following profiles are active: dev
+2019-12-08 20:24:09,874 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.542 seconds (JVM running for 3.082)
+2019-12-08 20:27:40,461 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on 201903142-PC with PID 2132 (D:\Work\Work\AgentServer\target\classes started by Administrator in D:\Work\Work\AgentServer)
+2019-12-08 20:27:40,464 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.6.RELEASE, Spring v5.0.10.RELEASE
+2019-12-08 20:27:40,465 INFO (SpringApplication.java:658)- The following profiles are active: dev
+2019-12-08 20:27:42,680 INFO (StartupInfoLogger.java:59)- Started AdminApplication in 2.727 seconds (JVM running for 3.436)

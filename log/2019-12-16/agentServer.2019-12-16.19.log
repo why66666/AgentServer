@@ -1,0 +1,48 @@
+2019-12-16 18:04:24,471 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:04:24,472 DEBUG (SessionListener.java:32)- ====================================key: Token_ab961827edf54f43b017325d48b9eff5 下线========================================
+2019-12-16 18:04:24,480 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:04:24,481 DEBUG (SessionListener.java:32)- ====================================key: Token_b6ee35d18759498990f1e9f538fcfef1 下线========================================
+2019-12-16 18:04:41,172 DEBUG (SessionListener.java:24)- ====================================session创建========================================
+2019-12-16 18:04:41,172 DEBUG (SessionListener.java:25)- ====================================key: null 上线========================================
+2019-12-16 18:04:41,172 DEBUG (ProviderController.java:31)- 创建Token_ab6d2075768445b9a810e92c663664d4
+2019-12-16 18:04:41,928 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:05:12,811 DEBUG (SessionListener.java:24)- ====================================session创建========================================
+2019-12-16 18:05:12,811 DEBUG (SessionListener.java:25)- ====================================key: null 上线========================================
+2019-12-16 18:05:12,811 DEBUG (ProviderController.java:31)- 创建Token_70d7516b7e2d4bd5a0d8a470e2df57e7
+2019-12-16 18:05:13,623 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:05:24,497 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:05:24,497 DEBUG (SessionListener.java:32)- ====================================key: Token_d120ceee17e44c7eb9727872e33e9c67 下线========================================
+2019-12-16 18:05:24,507 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:05:24,508 DEBUG (SessionListener.java:32)- ====================================key: Token_8bc52eeee24444498c23861a5b53947b 下线========================================
+2019-12-16 18:06:12,888 DEBUG (SessionListener.java:24)- ====================================session创建========================================
+2019-12-16 18:06:12,888 DEBUG (SessionListener.java:25)- ====================================key: null 上线========================================
+2019-12-16 18:06:12,888 DEBUG (ProviderController.java:31)- 创建Token_59f475ad1fae4da5931dac05f11a6f75
+2019-12-16 18:06:13,845 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:06:13,852 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:06:14,779 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:06:14,798 DEBUG (ProviderController.java:68)- 启动时Resin main文件删除，不记录
+2019-12-16 18:06:17,936 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:06:18,033 DEBUG (ProviderController.java:72)- 启动时Resin task文件删除，不记录
+2019-12-16 18:06:24,531 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:06:24,531 DEBUG (SessionListener.java:32)- ====================================key: Token_70d7516b7e2d4bd5a0d8a470e2df57e7 下线========================================
+2019-12-16 18:06:24,540 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:06:24,540 DEBUG (SessionListener.java:32)- ====================================key: Token_ab6d2075768445b9a810e92c663664d4 下线========================================
+2019-12-16 18:06:47,961 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:07:17,971 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:07:47,980 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:08:17,994 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:08:36,374 DEBUG (ProviderController.java:75)- 文件删除
+2019-12-16 18:08:36,374 DEBUG (ProviderController.java:76)- key========Token_59f475ad1fae4da5931dac05f11a6f75
+2019-12-16 18:08:36,374 DEBUG (ProviderController.java:77)- fileDel========true
+2019-12-16 18:08:36,374 DEBUG (ProviderController.java:78)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), com.cloudstore.api.util.Util_Ehcache.<init>(Util_Ehcache.java:21), com.cloudstore.api.util.Util_Ehcache.getIstance(Util_Ehcache.java:45), com.cloudstore.dev.api.message.adapter.factory.impl.DefaultCacheAdapterFatory.getCacheAdapter(DefaultCacheAdapterFatory.java:40), com.cloudstore.dev.api.message.task.MessageTask.run(MessageTask.java:136), java.util.TimerThread.mainLoop(Timer.java:555), java.util.TimerThread.run(Timer.java:505)]
+2019-12-16 18:08:36,513 DEBUG (ProviderServiceImpl.java:55)- list==>java.io.File.deleteOnExit(File.java)
+2019-12-16 18:08:48,024 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:09:18,034 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:09:48,054 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:10:18,065 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:10:48,075 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:11:18,085 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:11:48,095 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:12:18,200 DEBUG (ProviderController.java:46)- ====================定时更新消费者状态key: Token_59f475ad1fae4da5931dac05f11a6f75=====================
+2019-12-16 18:13:24,627 DEBUG (SessionListener.java:31)- ====================================session销毁========================================
+2019-12-16 18:13:24,627 DEBUG (SessionListener.java:32)- ====================================key: Token_59f475ad1fae4da5931dac05f11a6f75 下线========================================

@@ -1,0 +1,64 @@
+2019-12-08 16:55:25,989 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:26,543 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:26,543 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:26,546 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:27,067 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:27,068 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:27,068 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:27,995 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:27,995 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:27,996 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:28,531 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:28,532 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:28,533 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:29,047 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:29,048 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:29,049 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:29,603 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:29,604 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:29,604 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:30,111 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:30,111 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:30,112 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:30,435 DEBUG (ProviderController.java:65)- 文件删除
+2019-12-08 16:55:30,435 DEBUG (ProviderController.java:66)- key========fd45298c49124fcba4ecc3af28cac76d
+2019-12-08 16:55:30,435 DEBUG (ProviderController.java:67)- fileDel========true
+2019-12-08 16:55:30,436 DEBUG (ProviderController.java:68)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), com.cloudstore.api.util.Util_Ehcache.<init>(Util_Ehcache.java:21), com.cloudstore.api.util.Util_Ehcache.getIstance(Util_Ehcache.java:45), com.cloudstore.dev.api.message.adapter.factory.impl.DefaultCacheAdapterFatory.getCacheAdapter(DefaultCacheAdapterFatory.java:40), com.cloudstore.dev.api.message.task.MessageTask.run(MessageTask.java:136), java.util.TimerThread.mainLoop(Timer.java:555), java.util.TimerThread.run(Timer.java:505)]
+2019-12-08 16:55:30,706 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:30,707 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:30,707 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:31,523 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:31,524 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:31,524 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:32,129 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:32,129 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:32,130 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:32,635 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:32,635 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:32,635 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:33,137 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:33,138 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:33,138 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:33,641 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:33,641 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:33,641 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:34,144 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:34,145 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:34,145 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:34,649 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:34,649 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:34,649 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:35,152 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:35,153 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:35,153 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:35,656 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:35,656 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:35,656 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:36,159 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:36,160 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:36,160 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:36,663 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:36,663 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:36,663 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:37,165 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:37,165 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================

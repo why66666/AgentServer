@@ -1,0 +1,70 @@
+2019-12-10 11:37:55,365 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:38:25,390 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:38:41,165 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,165 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,165 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,166 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,209 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,209 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,209 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,210 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,250 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,250 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,250 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,250 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,288 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,288 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,288 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,288 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,337 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,338 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,338 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,338 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,386 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,386 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,386 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,386 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,424 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,424 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,424 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,425 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,464 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,464 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,464 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,464 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,503 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,503 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,503 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,503 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,541 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,541 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,541 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,541 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,595 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,595 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,595 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,596 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,633 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,633 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,633 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,633 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,672 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,672 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,672 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,672 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,790 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,790 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,790 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,791 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:83), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:41,821 DEBUG (ProviderController.java:72)- 文件删除
+2019-12-10 11:38:41,821 DEBUG (ProviderController.java:73)- key========Token_1988ec1ef6c64601b72f784f3fc16f52
+2019-12-10 11:38:41,822 DEBUG (ProviderController.java:74)- fileDel========true
+2019-12-10 11:38:41,822 DEBUG (ProviderController.java:75)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), weaver.system.ExcuteSqlLogZipTimer.deleteDir(ExcuteSqlLogZipTimer.java:42), weaver.system.ExcuteSqlLogZipTimer.deleteDir(ExcuteSqlLogZipTimer.java:36), weaver.system.ExcuteSqlLogZipTimer.doThreadWork(ExcuteSqlLogZipTimer.java:98), weaver.system.ThreadWorkTimer.run(ThreadWorkTimer.java:67)]
+2019-12-10 11:38:55,410 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:39:25,433 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:39:55,455 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:40:25,511 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:40:55,541 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:41:25,563 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:41:55,590 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================
+2019-12-10 11:42:25,616 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: Token_1988ec1ef6c64601b72f784f3fc16f52=====================

@@ -1,0 +1,56 @@
+2019-12-08 16:55:13,991 DEBUG (ProviderController.java:65)- 文件删除
+2019-12-08 16:55:13,993 DEBUG (ProviderController.java:66)- key========fd45298c49124fcba4ecc3af28cac76d
+2019-12-08 16:55:13,993 DEBUG (ProviderController.java:67)- fileDel========true
+2019-12-08 16:55:13,993 DEBUG (ProviderController.java:68)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), com.caucho.vfs.FilePath.remove(FilePath.java:542), com.caucho.db.block.BlockReadWrite.create(BlockReadWrite.java:134), com.caucho.db.block.BlockStore.create(BlockStore.java:483), com.caucho.server.httpcache.TempFileManager.<init>(TempFileManager.java:79), com.caucho.server.httpcache.TempFileService.createAndAddService(TempFileService.java:59), com.caucho.server.resin.ResinDelegate.addServices(ResinDelegate.java:222), com.caucho.server.resin.Resin.initServletSystem(Resin.java:1323), com.caucho.server.resin.Resin.configure(Resin.java:1026), com.caucho.server.resin.Resin.initMain(Resin.java:1008), com.caucho.server.resin.Resin.main(Resin.java:1469)]
+2019-12-08 16:55:14,181 DEBUG (ProviderController.java:65)- 文件删除
+2019-12-08 16:55:14,181 DEBUG (ProviderController.java:66)- key========fd45298c49124fcba4ecc3af28cac76d
+2019-12-08 16:55:14,181 DEBUG (ProviderController.java:67)- fileDel========true
+2019-12-08 16:55:14,182 DEBUG (ProviderController.java:68)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), com.caucho.vfs.FilePath.remove(FilePath.java:542), com.caucho.db.block.BlockReadWrite.create(BlockReadWrite.java:134), com.caucho.db.block.BlockStore.create(BlockStore.java:483), com.caucho.db.table.Table.create(Table.java:385), com.caucho.db.table.TableFactory.create(TableFactory.java:394), com.caucho.db.sql.CreateQuery.execute(CreateQuery.java:65), com.caucho.db.jdbc.StatementImpl.executeUpdate(StatementImpl.java:200), com.caucho.db.jdbc.StatementImpl.executeUpdate(StatementImpl.java:151), com.caucho.server.distcache.MnodeStore.initDatabase(MnodeStore.java:330), com.caucho.server.distcache.MnodeStore.init(MnodeStore.java:266), com.caucho.server.distcache.CacheDataBackingImpl.start(CacheDataBackingImpl.java:500), com.caucho.server.distcache.CacheStoreManager.start(CacheStoreManager.java:374), com.caucho.server.distcache.DistCacheSystem.start(DistCacheSystem.java:162), com.caucho.env.service.ResinSystem.startServices(ResinSystem.java:544), com.caucho.env.service.ResinSystem.start(ResinSystem.java:511), com.caucho.server.resin.Resin.start(Resin.java:877), com.caucho.server.resin.Resin.initMain(Resin.java:1010), com.caucho.server.resin.Resin.main(Resin.java:1469)]
+2019-12-08 16:55:14,222 DEBUG (ProviderController.java:65)- 文件删除
+2019-12-08 16:55:14,223 DEBUG (ProviderController.java:66)- key========fd45298c49124fcba4ecc3af28cac76d
+2019-12-08 16:55:14,223 DEBUG (ProviderController.java:67)- fileDel========true
+2019-12-08 16:55:14,223 DEBUG (ProviderController.java:68)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.delete(File.java), com.caucho.vfs.FilePath.remove(FilePath.java:542), com.caucho.db.block.BlockReadWrite.create(BlockReadWrite.java:134), com.caucho.db.block.BlockStore.create(BlockStore.java:483), com.caucho.db.table.Table.create(Table.java:385), com.caucho.db.table.TableFactory.create(TableFactory.java:394), com.caucho.db.sql.CreateQuery.execute(CreateQuery.java:65), com.caucho.db.jdbc.StatementImpl.executeUpdate(StatementImpl.java:200), com.caucho.db.jdbc.StatementImpl.executeUpdate(StatementImpl.java:151), com.caucho.server.distcache.DataStore.initDatabase(DataStore.java:244), com.caucho.server.distcache.DataStore.init(DataStore.java:173), com.caucho.server.distcache.CacheDataBackingImpl.start(CacheDataBackingImpl.java:503), com.caucho.server.distcache.CacheStoreManager.start(CacheStoreManager.java:374), com.caucho.server.distcache.DistCacheSystem.start(DistCacheSystem.java:162), com.caucho.env.service.ResinSystem.startServices(ResinSystem.java:544), com.caucho.env.service.ResinSystem.start(ResinSystem.java:511), com.caucho.server.resin.Resin.start(Resin.java:877), com.caucho.server.resin.Resin.initMain(Resin.java:1010), com.caucho.server.resin.Resin.main(Resin.java:1469)]
+2019-12-08 16:55:18,285 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:18,285 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:18,286 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:18,790 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:18,790 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:18,790 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:19,294 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:19,295 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:19,295 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:19,798 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:19,799 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:19,799 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:20,302 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:20,303 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:20,303 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:20,806 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:20,806 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:20,807 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:21,734 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:21,735 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:21,735 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:22,238 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:22,238 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:22,238 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:22,743 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:22,743 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:22,743 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:23,247 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:23,247 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:23,247 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:23,751 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:23,751 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:23,752 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:24,255 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:24,255 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:24,255 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:24,759 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:24,759 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:24,760 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:25,412 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:25,412 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================
+2019-12-08 16:55:25,413 DEBUG (ProviderController.java:44)- ====================定时更新消费者状态key: null=====================
+2019-12-08 16:55:25,988 DEBUG (SessionListener.java:17)- ====================================session创建========================================
+2019-12-08 16:55:25,988 DEBUG (SessionListener.java:18)- ====================================key: null 上线========================================

@@ -1,0 +1,57 @@
+2019-12-08 17:57:54,378 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:54,906 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:55,440 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:55,945 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:56,492 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:56,718 DEBUG (ProviderController.java:64)- 文件删除
+2019-12-08 17:57:56,719 DEBUG (ProviderController.java:65)- key========28adc0c587934ff6bd77da198803ee0b
+2019-12-08 17:57:56,719 DEBUG (ProviderController.java:66)- fileDel========true
+2019-12-08 17:57:56,719 DEBUG (ProviderController.java:67)- sfStack========[java.lang.Thread.getStackTrace(Thread.java:1559), java.io.File.deleteOnExit(File.java), net.sf.ehcache.pool.sizeof.AgentLoader.getAgentFile(AgentLoader.java:196), net.sf.ehcache.pool.sizeof.AgentLoader.loadAgent(AgentLoader.java:137), net.sf.ehcache.pool.sizeof.AgentSizeOf.<clinit>(AgentSizeOf.java:38), net.sf.ehcache.pool.impl.DefaultSizeOfEngine.<init>(DefaultSizeOfEngine.java:109), net.sf.ehcache.pool.SizeOfEngineLoader.createSizeOfEngine(SizeOfEngineLoader.java:71), net.sf.ehcache.pool.SizeOfEngineLoader.newSizeOfEngine(SizeOfEngineLoader.java:59), net.sf.ehcache.CacheManager.createSizeOfEngine(CacheManager.java:2059), net.sf.ehcache.CacheManager.doInit(CacheManager.java:446), net.sf.ehcache.CacheManager.init(CacheManager.java:388), net.sf.ehcache.CacheManager.<init>(CacheManager.java:264), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:1079), net.sf.ehcache.CacheManager.newInstance(CacheManager.java:910), net.sf.ehcache.CacheManager.create(CacheManager.java:889), weaver.formmode.excel.ModeCacheManager.getInstance(ModeCacheManager.java:58), weaver.formmode.task.TaskService.run(TaskService.java:239), java.lang.Thread.run(Thread.java:748)]
+2019-12-08 17:57:57,011 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:57,565 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:58,073 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:58,580 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:59,083 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:57:59,586 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:00,089 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:00,593 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:01,096 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:01,599 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:02,103 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:02,606 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:03,109 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:03,611 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:04,114 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:04,617 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:05,120 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:05,623 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:06,128 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:06,631 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:07,136 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:07,638 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:08,141 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:08,644 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:09,147 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:09,652 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:10,158 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:10,663 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:11,168 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:11,675 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:12,180 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:12,721 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:13,227 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:13,748 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:14,288 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:14,791 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:15,294 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:15,798 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:16,301 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:16,805 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:17,309 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:17,812 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:18,318 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:18,821 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:19,325 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:19,830 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:20,334 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
+2019-12-08 17:58:20,838 DEBUG (ProviderController.java:43)- ====================定时更新消费者状态key: 28adc0c587934ff6bd77da198803ee0b=====================
