@@ -43,7 +43,7 @@ public class ProviderController extends CrudController<BaseBean, ProviderService
     @RequestMapping(value = "/updateStatus")
     @ResponseBody
     public void updateStatus(HttpSession httpSession){
-        logger.debug("====================定时更新消费者状态key: "+httpSession.getAttribute("ip")+"=====================");
+        logger.debug("====================定时更新session状态ip: "+httpSession.getAttribute("ip")+"=====================");
     }
 
     @RequestMapping(value = "/setSqlDel")
@@ -66,16 +66,22 @@ public class ProviderController extends CrudController<BaseBean, ProviderService
         Map readValue = mapper.readValue(jsonString, Map.class);
         if(readValue.get("sfStack").toString().contains("com.caucho.server.resin.Resin.main")){
             logger.debug(readValue.get("sfStack").toString());
+            logger.debug(readValue.get("sfStackID").toString());
+            logger.debug(readValue.get("sfStackName").toString());
+            logger.debug(readValue.get("sfName").toString());
             logger.debug("启动时Resin main文件删除，不记录");
             return;
         }
-        if(readValue.get("sfStack").toString().contains("com.caucho.env.thread2.ResinThread2")){
+        /*if(readValue.get("sfStack").toString().contains("com.caucho.env.thread2.ResinThread2")){
             logger.debug("启动时Resin task文件删除，不记录");
             return;
-        }
+        }*/
         logger.debug("文件删除");
         logger.debug("ip========"+readValue.get("ip"));
-        logger.debug("sfStack========"+readValue.get("sfStack"));
+        logger.debug(readValue.get("sfStack").toString());
+        logger.debug(readValue.get("sfStackID").toString());
+        logger.debug(readValue.get("sfStackName").toString());
+        logger.debug(readValue.get("sfName").toString());
         service.setfileDel(readValue);
     }
 }

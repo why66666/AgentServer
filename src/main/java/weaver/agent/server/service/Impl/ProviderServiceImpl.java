@@ -75,7 +75,7 @@ public class ProviderServiceImpl extends RedisService<BaseBean> implements Provi
         logger.debug("list==>" + list.get(1));
         map.put("sfStack_" + i, list);
         map.remove("sfStack");
-        redisTemplate.opsForHash().putAll(map.get("key").toString(), map);
+        redisTemplate.opsForHash().putAll(map.get("ip").toString()+ ":FileDel", map);
 
     }
 
