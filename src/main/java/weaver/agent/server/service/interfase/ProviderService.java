@@ -21,5 +21,5 @@ public interface ProviderService extends BaseService<BaseBean> {
 
     List<Map> getList();
 
-    Map<String,List> getFDMap(String key);
+    Map<String,List> getFDMap(String ip);
 }
