@@ -32,14 +32,6 @@ public class ProviderController extends CrudController<BaseBean, ProviderService
         service.addEntry(map);
     }
 
-    @RequestMapping(value = "/getValue/{key}",method = RequestMethod.GET)
-    @ResponseBody
-    public String get(@PathVariable(value = "key")String key){
-        Map<String,Object> map = new HashMap<String,Object>();
-        map.put("key",key);
-        return service.getByKey(map).toString();
-    }
-
     @RequestMapping(value = "/updateStatus")
     @ResponseBody
     public void updateStatus(HttpSession httpSession){
@@ -76,12 +68,14 @@ public class ProviderController extends CrudController<BaseBean, ProviderService
             logger.debug("启动时Resin task文件删除，不记录");
             return;
         }*/
-        logger.debug("文件删除");
+        logger.debug("/-------文件删除--------");
         logger.debug("ip========"+readValue.get("ip"));
         logger.debug(readValue.get("sfStack").toString());
         logger.debug(readValue.get("sfStackID").toString());
         logger.debug(readValue.get("sfStackName").toString());
         logger.debug(readValue.get("sfName").toString());
+        readValue.put("time",new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
+        logger.debug("-------文件删除--------/");
         service.setfileDel(readValue);
     }
 }

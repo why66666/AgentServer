@@ -14,12 +14,9 @@ import java.util.Set;
  */
 public interface ProviderService extends BaseService<BaseBean> {
     public void addEntry(Map map);
-    public Map getByKey(Map map);
     public void setSqlDel(Map map);
     public void setfileDel(Map map);
-    public void setStatus(Map map);
-
     List<Map> getList();
 
-    Map<String,List> getFDMap(String ip);
+    List<Map> getFDMap(String ip);
 }

@@ -62,9 +62,9 @@ desired effect
         <!-- Logo -->
         <a href="index2.html" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
-            <span class="logo-mini"><b>A</b>D</span>
+            <span class="logo-mini"><b>D</b>C</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg"><b>Admin</b>Dashboard</span>
+            <span class="logo-lg"><b>动态</b>代码检查</span>
         </a>
 
         <!-- Header Navbar -->
@@ -325,7 +325,7 @@ desired effect
                                 </tr>
                                 <tr th:each="map,iterStat:${list}">
                                     <td th:text="${map.get('ip')}">183</td>
-                                    <td><a th:href="@{'/admin/fdlist/'+${map.get('ip')}}"><span th:class="${map.get('fileDel')}?'label label-danger':'label label-success'" th:text="${map.get('fileDel')}?'危险':'安全'"></span></a></td>
+                                    <td><a th:href="@{'/admin/fdlist/'+${map.get('ip')}}"><span th:class="${map.get('FileDel')}>0?'label label-danger':'label label-success'" th:text="${map.get('FileDel')}>0?'危险':'安全'"></span></a></td>
                                     <td><span th:class="${map.get('sqlDel')}?'label label-danger':'label label-success'" th:text="${map.get('sqlDel')}?'危险':'安全'"></span></td>
                                     <!--<td><span class="label label-success">Approved</span></td>
                                     <td><span class="label label-warning">Pending</span></td>
