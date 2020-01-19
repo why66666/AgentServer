@@ -29,7 +29,12 @@ public class ProviderController extends CrudController<BaseBean, ProviderService
         httpSession.setAttribute("ip",ip);
         //httpSession.setAttribute("startTime",df.format(new Date()));
         logger.debug("连接"+ip);
-        service.addEntry(map);
+        try {
+            service.addEntry(map);
+        } catch (Exception e) {
+            e.printStackTrace();
+            service.addEntry(map);
+        }
     }
 
     @RequestMapping(value = "/updateStatus")

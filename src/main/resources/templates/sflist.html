@@ -17,8 +17,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link rel="stylesheet" th:href="@{/bower_components/Ionicons/css/ionicons.min.css}">
     <!-- Theme style -->
     <link rel="stylesheet" th:href="@{/dist/css/AdminLTE.min.css}">
-    <!-- DataTables -->
-    <link rel="stylesheet" th:href="@{/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css}">
     <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
           page. However, you can choose any other skin. Make sure you
           apply the skin class to the body tag so the changes take effect. -->
@@ -57,7 +55,6 @@ desired effect
 -->
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
-
     <!-- Main Header -->
     <header class="main-header">
         <div th:replace="common/header :: header"></div>
@@ -84,58 +81,50 @@ desired effect
         <!-- Main content -->
         <section class="content container-fluid">
 
-
-            <div class="box">
-                <div class="box-header">
-                    <h3 class="box-title">Data Table With Full Features</h3>
-                </div>
-                <!-- /.box-header -->
-                <div class="box-body">
-                    <table id="example1" class="table table-bordered table-striped">
-                        <thead>
-                        <tr>
-                            <th width="10%">线程ID</th>
-                            <th width="10%">线程名称</th>
-                            <th width="10%">时间</th>
-                            <th width="35%">删除文件</th>
-                            <th>关键帧</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr th:each="map:${fdmap}">
-                            <td th:text="${map.get('sfStackID')}">183</td>
-                            <td th:text="${map.get('sfStackName')}">183</td>
-                            <td th:text="${map.get('time')}">183</td>
-                            <td th:text="${map.get('sfName')}">183</td>
-                            <td><a href="" data-toggle="modal" data-target="#sf-modal" th:text="${map.get('fdkeyword')}" th:onclick="modalVal([[${map.get('sfStack')}]]);">183</a></td>
-                            <!--<td><span class="label label-success">Approved</span></td>
-                            <td><span class="label label-warning">Pending</span></td>
-                            <td><span class="label label-primary">Approved</span></td>
-                            <td><span class="label label-danger">Denied</span></td>-->
-                        </tr>
-                        </tbody>
-                        <tfoot>
-                        <tr>
-                            <th>线程ID</th>
-                            <th>线程名称</th>
-                            <th>时间</th>
-                            <th>删除文件</th>
-                            <th>关键帧</th>
-                        </tr>
-                        </tfoot>
-                    </table>
-                </div>
-                <!-- /.box-body -->
-            </div>
-            <!-- /.box -->
-
-
-
-
             <!--------------------------
               | Your Page Content Here |
               -------------------------->
             <!-- Small boxes (Stat box) -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box">
+                        <div class="box-header">
+                            <h3 class="box-title">Responsive Hover Table</h3>
+
+                            <div class="box-tools">
+                                <div class="input-group input-group-sm" style="width: 150px;">
+                                    <input type="text" name="table_search" class="form-control pull-right" placeholder="Search">
+
+                                    <div class="input-group-btn">
+                                        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.box-header -->
+                        <div class="box-body table-responsive no-padding">
+                            <table class="table table-hover">
+                                <tr>
+                                    <th>ip</th>
+                                    <th>FileDel</th>
+                                    <th>SqlDel</th>
+                                </tr>
+                                <tr th:each="map,iterStat:${list}">
+                                    <td th:text="${map.get('ip')}">183</td>
+                                    <td><a th:href="@{'/checkitem/sflist/fdlist/'+${map.get('ip')}}"><span th:class="${map.get('FileDel')}>0?'label label-danger':'label label-success'" th:text="${map.get('FileDel')}>0?'危险':'安全'"></span></a></td>
+                                    <td><span th:class="${map.get('sqlDel')}?'label label-danger':'label label-success'" th:text="${map.get('sqlDel')}?'危险':'安全'"></span></td>
+                                    <!--<td><span class="label label-success">Approved</span></td>
+                                    <td><span class="label label-warning">Pending</span></td>
+                                    <td><span class="label label-primary">Approved</span></td>
+                                    <td><span class="label label-danger">Denied</span></td>-->
+                                </tr>
+                            </table>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+            </div>
 
         </section>
         <!-- /.content -->
@@ -233,50 +222,13 @@ desired effect
 
 <!-- REQUIRED JS SCRIPTS -->
 
-
-<div class="modal fade" id="sf-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×
-                </button>
-                <h4 class="modal-title" id="myModalLabel">
-                    TreadStack
-                </h4>
-            </div>
-            <div class="modal-body" id="sfmodalbody">
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">
-                    关闭
-                </button>
-                <button type="button" class="btn btn-primary">
-                    提交更改
-                </button>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-
 <!-- jQuery 3 -->
 <script th:src="@{/bower_components/jquery/dist/jquery.min.js}"></script>
 <!-- Bootstrap 3.3.7 -->
 <script th:src="@{/bower_components/bootstrap/dist/js/bootstrap.min.js}"></script>
-<!-- DataTables -->
-<script th:src="@{/bower_components/datatables.net/js/jquery.dataTables.min.js}"></script>
-<script th:src="@{/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js}"></script>
 <!-- AdminLTE App -->
 <script th:src="@{/dist/js/adminlte.min.js}"></script>
 
-<script>
-    function modalVal(val) {
-        $("#sfmodalbody").html(val);
-    }
-    $(function () {
-        $('#example1').DataTable()
-    })
-</script>
 <!-- Optionally, you can add Slimscroll and FastClick plugins.
      Both of these plugins are recommended to enhance the
      user experience. -->
